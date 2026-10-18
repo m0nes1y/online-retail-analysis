@@ -1,0 +1,13 @@
+# 运行生成的中间产物（不入库）
+ecommerce.db
+__pycache__/
+*.pyc
+
+# 数据集（约 45MB，从 UCI 官方下载，勿入库）
+*.zip
+../../downloads/
+online_retail_II/
+online_retail_II.xlsx
+
+# 本地临时
+*.log
